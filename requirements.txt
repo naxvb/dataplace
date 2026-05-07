@@ -1,0 +1,15 @@
+snowflake-connector-python
+boto3
+geopandas
+shapely
+xgboost
+shap
+folium
+h3
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+ipykernel
